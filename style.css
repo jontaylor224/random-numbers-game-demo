@@ -1,0 +1,21 @@
+button {
+    padding: 1rem;
+    margin: 1rem;
+    font-size: large;
+}
+
+#graph {
+    margin: 10px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;
+}
+
+.countBox {
+    height: 150px;
+    width: 150px;
+    background-color: lightpink;
+    color: darkslategray;
+    text-align: center;
+    margin: 10px;
+}
